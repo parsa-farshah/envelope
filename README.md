@@ -30,13 +30,14 @@ Parsa Dehghan Pour Farashah
 ## 🎯 Role  
 Frontend Developer
 
-## 🔗 [🌐 Live Demo – Open the Envelope](https://parsa-farshah.github.io/Envelope/](https://parsa-farshah.github.io/envelope/)
+## 🔗 [🌐 Live Demo – Open the Envelope](https://parsa-farshah.github.io/envelope/)
 
 ## 📬 How to Reach Me  
 - Instagram: [@parsa_dehghanpour_dv](https://www.instagram.com/parsa_dehghanpour_dv)  
 - LinkedIn: [Parsa Dehghan Pour Farashah](https://www.linkedin.com/in/parsa-dehghan-pour-farashah-85ab04250)  
 - GitHub: [parsa-farshah](https://github.com/parsa-farshah)
 
+---
 ---
 
 ![Envelope Animation Screenshot](assets/images/cover.jpg)
